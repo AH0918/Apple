@@ -1,5 +1,5 @@
 Feature: Guest User Checkout for iPad
-
+  @Regression
   @GuestCheckoutiPad
   Scenario: Guest user adds an iPad to the cart and completes checkout
     Given The user is on the Apple website homepage

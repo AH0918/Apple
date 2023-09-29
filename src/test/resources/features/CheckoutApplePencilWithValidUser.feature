@@ -1,5 +1,5 @@
 Feature: Valid User Checkout for Apple Pencil
-
+  @Regression
   @UserApplePencil
   Scenario: Guest user adds an iPadPencil to the cart and completes checkout
     Given The user is on the Apple website homepage

@@ -1,5 +1,5 @@
 Feature: Locate store using pincode
-
+  @Regression
   @LocateAStore
   Scenario: Guest user adds an iPad to the cart and completes checkout
     Given The user is on the Apple website homepage

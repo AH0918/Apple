@@ -1,5 +1,5 @@
 Feature: Valid User Checkout for Apple iPhone
-
+  @Regression
   @UserCheckoutiPhone
   Scenario: Valid user adds an iPhone to the cart and completes checkout
     Given The user is on the Apple website homepage

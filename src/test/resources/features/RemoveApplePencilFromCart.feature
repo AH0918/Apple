@@ -1,5 +1,5 @@
 Feature: Remove Apple Pencil from cart
-
+  @Regression
   @RemoveApplePencil
   Scenario: Guest user adds an iPadPencil to the cart and completes checkout
     Given The user is on the Apple website homepage

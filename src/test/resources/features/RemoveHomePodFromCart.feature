@@ -1,5 +1,5 @@
 Feature: Guest User Checkout for HomePod
-
+  @Regression
   @HomePodWithGuest
   Scenario: Guest user adds an iPad to the cart and completes checkout
     Given The user is on the Apple website homepage

@@ -1,5 +1,5 @@
 Feature: Remove the iPhone from cartpage
-
+  @Regression
   @RemoveIphone
   Scenario: Guest user adds an iPhone to the cart and removed successfully
     Given The user is on the Apple website homepage

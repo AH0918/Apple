@@ -1,5 +1,6 @@
 Feature: Guest User Checkout for Apple Pencil
 
+  @Regression
   @GuestApplePencil
   Scenario: Guest user adds an iPadPencil to the cart and completes checkout
     Given The user is on the Apple website homepage
